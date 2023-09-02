@@ -1,1 +1,1 @@
-# new-app
+# new-app is created for learning/ training purpose
